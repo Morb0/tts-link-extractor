@@ -1,0 +1,16 @@
+{
+  "name": "tts-link-extractor",
+  "version": "0.0.0",
+  "description": "Help to extract links from TTS saved file",
+  "main": "extractor.js",
+  "repository": "https://github.com/Morb0/tts-link-extractor.git",
+  "author": "Morbo",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "file-type": "^12.4.0",
+    "is-absolute-url": "^3.0.3",
+    "is-url": "^1.2.4",
+    "node-fetch": "^2.6.0"
+  }
+}
